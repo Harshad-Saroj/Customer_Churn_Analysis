@@ -4,13 +4,13 @@ This end-to-end project analyzes customer churn behavior using a real-world tele
 
 Folder Structure:
 Customer_Churn_Analysis/
-├── data/ - Raw & cleaned datasets
-├── notebooks/ - Python Jupyter notebook for EDA
-├── sql_queries/ - SQL scripts for churn analysis
-├── dashboards/ - Power BI dashboard (.pbix)
-├── excel/ - Excel file contatining pivots, KPIs & dashboard
-├── images/ # Dashboard screenshots
-└── README.md # Project documentation
+1. data/              - Raw & cleaned datasets
+2. notebooks/         - Python Jupyter notebook for EDA
+3. sql_queries/       - SQL scripts for churn analysis
+4. dashboards/        - Power BI dashboard (.pbix)
+5. excel/             - Excel file contatining pivots, KPIs & dashboard
+6. images/            - Dashboard screenshots
+7. README.md          - Project documentation
 
 Dataset:
 -Source: [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
@@ -56,8 +56,7 @@ Visuals:
 ---
 
 How to Run:
-
-1. Clone the repo:
+1. Clone the repo: https://github.com/Harshad-Saroj/Customer_Churn_Analysis/tree/main
 2. 
 3. Open:
 - `.ipynb` in Jupyter or VSCode
