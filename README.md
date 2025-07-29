@@ -57,8 +57,7 @@ Visuals:
 
 How to Run:
 1. Clone the repo: https://github.com/Harshad-Saroj/Customer_Churn_Analysis/tree/main
-2. 
-3. Open:
+2. Open:
 - `.ipynb` in Jupyter or VSCode
 - `.pbix` in Power BI Desktop
 - `.xlsx` in Excel
